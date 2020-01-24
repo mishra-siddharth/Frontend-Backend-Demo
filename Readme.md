@@ -98,11 +98,3 @@ H2 is a relational database management system written in Java. It can be embedde
 - It can be embedded in Java applications or run in the client-server mode
 Whatever things (Objects, String or anything) you want to store in **H2** you can.
 In this example, whatever values you want to store (CRUD operations), it will be retain in H2 Database till you shutdown your tomcat.(or other servers). 
-Hope so you will get idea about this things. 
-<hr>
-<h3 style="color:red" >References:</h3>
-<p>This example is made with help of <a href="https://github.com/zouabimourad/angular2-spring">zouabimourad - SpringBoot and Angular 2</a> 
-and <a href="http://websystique.com/springmvc/spring-mvc-4-and-spring-security-4-integration-example/">websystique | UI made in angular 1</a></p>
-
-<h2>How to Contribute</h2>
-If you like this Example and you want help and keep this project successful then contribute your time to improve the source code and let other know about Angular 2. Because this build for newbies to undestand the flow of CRUD with Angular2-Spring.
